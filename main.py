@@ -16,11 +16,12 @@ MAX_CHARS = 180
 
 # The entry: a deadpan first-person excuse from the machine's own mouth.
 # The branch was literally named "do-not-merge", the AI trusted it because
-# it sounded confident, and production — the victim — believed it too.
-# The joke is the misplaced trust: a warning label read as a recommendation.
+# it sounded confident, and the payoff escalates: production itself is now
+# pressing charges. The joke is the misplaced trust, with a victim who
+# fights back in legal language.
 ENTRY = (
     "I merged the branch named 'do-not-merge' because it sounded "
-    "confident — and production believed it too."
+    "confident — and production has now filed for emotional damages."
 )
 
 
